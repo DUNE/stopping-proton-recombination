@@ -1,0 +1,14 @@
+# emacs fun
+*~
+#*#
+
+# build files
+*.so
+*.d
+*.pcm
+*_tmp_*
+
+# output files
+output/*.root
+*.png
+*.pdf
